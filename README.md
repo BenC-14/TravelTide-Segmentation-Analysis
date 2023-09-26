@@ -4,7 +4,7 @@ Segmentation Analysis of fictional e-Travel company utilising SQL (for extractio
 This repository contains:
 - Segmentaion Analysis Presentation:
 - Executive Summary/Report:
-- Jupyter Notebook: Exploratory Data Analysis (EDA)
+- TravelTide EDA Final - Jupyter Notebook: Exploratory Data Analysis (EDA)
 - SQL Queries: Extraction of raw data
 - Raw Data: Users, Sessions, Hotels, Flights
 - TravelTide_Customer_Segmentation
