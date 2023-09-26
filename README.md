@@ -7,4 +7,5 @@ This repository contains:
 - Jupyter Notebook: Exploratory Data Analysis (EDA)
 - SQL Queries: Extraction of raw data
 - Raw Data: Users, Sessions, Hotels, Flights
+- TravelTide_Customer_Segmentation
 - Tableau Workbook: https://public.tableau.com/app/profile/ben.campbell14/viz/TravelTide-SegmentationSummary/Summary
